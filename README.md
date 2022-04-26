@@ -1,3 +1,12 @@
+### Tests
+
+Graduate subject CI/CD class to pratice quality&testing. We managed to explore the following:
+1. [Code quality with ESLint](exercicios/01.exercicio-ESLint.md)
+2. [Unit tests with libs such as **_mocha_** and **_chai_** or **_SinonJS_**](exercicios/02.exercicio-testes-unitarios.md)
+3. [Functional tests with **_chai-http_**](exercicios/03.exercicio-test-doubles.md)
+4. [Tests coverage with **_Istanbul_**](04.exercicio-cobertura.md)
+
+
 # Restaurant Reservations
 
 This is a Node.js and Express website that accepts and lists restaurant reservations. 
